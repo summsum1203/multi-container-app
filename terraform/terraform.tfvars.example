@@ -1,0 +1,4 @@
+# terraform.tfvars.example — copy to terraform.tfvars and fill in your values
+do_token            = "your_digitalocean_api_token"
+ssh_key_fingerprint = "your_ssh_key_fingerprint"
+region              = "nyc3"
